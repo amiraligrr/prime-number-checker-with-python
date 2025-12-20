@@ -17,4 +17,5 @@ A simple Python script that checks if a number is prime and finds all prime numb
 ## Run
    python3 aval-numbers.py
  ## Thanks for reading
+ ---
  maid by Amirali Granmayeh 
